@@ -1,0 +1,44 @@
+[
+  {
+    "id": "exemple-1",
+    "title": "Oeuvre Exemple 1",
+    "description": "<p>Technique — Dimensions — Année</p>",
+    "image": "/images/gallery/placeholder.jpg",
+    "collection": "Collection A"
+  },
+  {
+    "id": "exemple-2",
+    "title": "Oeuvre Exemple 2",
+    "description": "<p>Technique — Dimensions — Année</p>",
+    "image": "/images/gallery/placeholder.jpg",
+    "collection": "Collection A"
+  },
+  {
+    "id": "exemple-3",
+    "title": "Oeuvre Exemple 3",
+    "description": "<p>Technique — Dimensions — Année</p>",
+    "image": "/images/gallery/placeholder.jpg",
+    "collection": "Collection B"
+  },
+  {
+    "id": "exemple-4",
+    "title": "Oeuvre Exemple 4",
+    "description": "<p>Technique — Dimensions — Année</p>",
+    "image": "/images/gallery/placeholder.jpg",
+    "collection": "Collection B"
+  },
+  {
+    "id": "exemple-5",
+    "title": "Oeuvre Exemple 5",
+    "description": "<p>Technique — Dimensions — Année</p>",
+    "image": "/images/gallery/placeholder.jpg",
+    "collection": "Collection C"
+  },
+  {
+    "id": "exemple-6",
+    "title": "Oeuvre Exemple 6",
+    "description": "<p>Technique — Dimensions — Année</p>",
+    "image": "/images/gallery/placeholder.jpg",
+    "collection": "Collection C"
+  }
+]

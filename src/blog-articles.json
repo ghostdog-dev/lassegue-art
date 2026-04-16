@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "exemple-article",
+    "title": "Titre de l'article",
+    "description": "Description de l'article placeholder.",
+    "date": "2026-01-01",
+    "image": "/images/placeholder.jpg",
+    "content": "# Titre de l'article\n\nContenu placeholder pour démontrer le rendu markdown du blog.\n\n## Sous-titre\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "faq": [
+      {
+        "question": "Question exemple ?",
+        "answer": "Réponse exemple pour démontrer la FAQ."
+      }
+    ]
+  }
+]

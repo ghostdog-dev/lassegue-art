@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+.env
+.env.*
+*.log
+.DS_Store
+plans/
+products_export_1.csv
