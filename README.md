@@ -114,3 +114,7 @@ Les composants UI reutilisables sont dans `src/components/ui/ArtistUI.tsx` :
 ## Note sur le CSS
 
 Le fichier `src/index.css` contient le CSS Tailwind **pre-compile** (export Figma). Ajouter de nouvelles classes Tailwind directement dans le JSX ne fonctionnera pas — utiliser `src/styles/globals.css` pour les styles personnalises.
+
+## Licence
+
+Ce code est mis a disposition a des fins de consultation et de demonstration uniquement. Toute copie, modification, redistribution ou reutilisation est interdite. Voir le fichier [LICENSE](LICENSE) pour plus de details.
